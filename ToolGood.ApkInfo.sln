@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolGood.ApkInfo", "ToolGood.ApkInfo\ToolGood.ApkInfo.csproj", "{61DB0576-8D3C-4184-B926-D9BE8BBCD935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteedee.ApkReader", "Iteedee.ApkReader\Iteedee.ApkReader.csproj", "{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DB0576-8D3C-4184-B926-D9BE8BBCD935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DB0576-8D3C-4184-B926-D9BE8BBCD935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DB0576-8D3C-4184-B926-D9BE8BBCD935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DB0576-8D3C-4184-B926-D9BE8BBCD935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A705A576-63A4-4BEA-8B3B-461BF2994A0F}
+	EndGlobalSection
+EndGlobal
